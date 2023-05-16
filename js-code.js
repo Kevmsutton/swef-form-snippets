@@ -1,3 +1,5 @@
+<script>
+
 var flow_fields = [
         'cf_942[]',
         'cf_944[]',
@@ -271,3 +273,4 @@ var flow_fields = [
             }
         };
     }
+</script>
