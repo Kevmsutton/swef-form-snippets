@@ -1,6 +1,4 @@
-<script type="text/javascript">
-
-    var flow_fields = [
+var flow_fields = [
         'cf_942[]',
         'cf_944[]',
         'cf_946[]',
@@ -273,4 +271,3 @@
             }
         };
     }
-</script>
